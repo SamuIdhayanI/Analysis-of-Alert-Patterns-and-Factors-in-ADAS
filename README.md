@@ -4,6 +4,9 @@ This report presents a comprehensive analysis of various alert patterns and thei
 
 Notably, this report goes beyond the initial dataset by introducing additional columns, yielding new and insightful findings. These additional insights are presented in the final five sections of the report, shedding light on critical aspects of the data analysis that directly impact road safety.
 
+![image](https://github.com/user-attachments/assets/5a79a9c4-d397-421d-8bd5-d36a4bd09dec)
+
+
 
 ### Usage
 **ADAS Analysis.pdf:** Review this document for an in-depth understanding of the analysis and insights derived from the dataset. It includes detailed sections on each aspect of the study and presents the findings comprehensively.
